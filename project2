@@ -1,1 +1,158 @@
+<html>
+    <head>
+           <link rel="stylesheet" href="style.css"/> <title>Смаколик Ресторан Меню</title>
+    </head>
+    <body>
+            <header>
 
+                <nav class="help">                   
+                    <a href="#main_sector">Головне🍽</a>
+                    <a href="#footer_sector">Контакти🔔</a>
+                    <a href="#redboi_sector">Доставка🧍‍♂️</a>
+                    </nav>
+                    
+            </header>
+            <main id="main_sector">
+               
+               
+               
+            <h1>
+
+                Ресторан "Смаколик"
+                
+            </h1>
+            <h2>
+                 Меню
+            </h2>
+                    <p>
+                          <nav class="food">
+                          <a href="#warmmeals_sector">-Гарячі Напої-</a> 
+                          <a href="#coldmeals_sector">-Холодні Напої-</a>
+                          <a href="#fastfood_sector">- ФастФуд-</a>
+                          <a href="#colddrinks_sector">-Холодні страви-</a>
+                          <a href="#hotdrinks_sector">- Гарячі страви-</a>
+                          <a href="#desserts_sector">- Десерти-</a>
+                    </nav>
+                    </p>
+                    <p class="CHOSE">
+                        <h2>
+                            ВИБИРАЙ
+                        </h2>
+                        
+                        <h3 id="warmmeals_sector">Гарячі страви🍝</h3>
+
+                        <p> Гречана каша з грибами – 85 грн за порцію.</p>
+                        <img src="https://img1.russianfood.com/dycontent/images_upl/495/big_494596.jpg">
+                        <p> Тушкована картопля з м'ясом – 110 грн за порцію.</p>
+                        <img src="https://i0.wp.com/prosti-recepty.com/wp-content/uploads/2021/11/1-9.jpeg?resize=1024%2C683&ssl=1">
+                        <p> Курячий суп з локшиною – 70 грн за порцію.</p>
+                        <img src="https://assets.dots.live/misteram-public/0189b182-c77a-7267-8c64-89f93f30a50c-826x0.png">
+                        <p> Гречаники – 90 грн за порцію.</p>
+                        <img src="https://yasensvit.ua/uploads/recipes/prev/61b07858ed620.webp">
+                        <p> Вареники з капустою – 75 грн за порцію.</p>
+                        <img src="https://food.net.ua/uploads/posts/2023-06/vareniki-s-kvashenoi-kapustoi_1635560259_12_max.jpg">
+                        <p> Рагу з курки та овочів – 120 грн за порцію.</p>
+                        <img src="https://smachnonews.24tv.ua/resources/photos/news/202211/2204306.jpg?v=1669282870000&w=840&h=472&fit=cover&output=webp&q=50">
+
+                        <h3 id="coldmeals_sector">Холодні страви🥗</h3>
+
+                        <p>Гаспачо - 65 грн за порцію</p>
+                        <img src="https://cdn.lifehacker.ru/wp-content/uploads/2022/04/shutterstock_1821753008_1651055120-scaled-e1651055163562-1280x640.jpg">
+                        <p>Фруктовий салат - 70 грн за порцію.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4wnJKMpCZrGDFOm8qWF4EjSWHBz-A8rpicMdWZnyYU9xA1i0cDWrmI8QXHmxv_oD3X_M&u">
+                        <p>Грецький салат - 95 грн за порцію.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm4YCAWYkxjlL9w9UbYC2Adxp7Z4W35klIIMEL0cqk2BsINTUGEYbEsKc2-KkpLsn6n8I&usqp=CA">
+                        <p>Цезар з куркою - 110 грн за порцію.</p>
+                        <img src="https://img.postershop.me/13376/c0dad7aa-d491-456e-8bba-da6a6ccc8011_image.jpeg">
+                        <p>Олів'є - 80 грн за порцію</p>
+                        <img src="https://fayni-recepty.com.ua/wp-content/uploads/2020/08/olivie.jpg">
+                        <p>Шуба - 90 грн за порцію.</p>
+                        <img src="https://img.povar.ru/mobile/10/a9/1d/fb/seledka_pod_shuboi_v_vide_ribi-234498.jpg">
+
+                        <h3 id="fastfood_sector">Фастфуд🍔</h3>
+
+                        <p>Гамбургер - 50 грн.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWbM5UXrrboZY9ThJQh2K97HjoPHZqIWrqCeZOrlJRPnV81zgw02JGox_Be6IiCG3Pb8E&usqp=C">
+                        <p>Картопля фрі - 40 грн.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcgIU_0UxRYG1Jj4xzYdprBRjMXatyizdSItKkG4insTg8r5V_BmTfBF2i1GC3uVUh42g&usqp=CAU">
+                        <p>Чікен нагетс - 60 грн.</p>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Chicken_Nuggets.jpg">
+                        <p>Хот-дог - 55 грн.</p>
+                        <img src="https://zavernulli.com.ua/files/product/2/3/2/232.jpg">
+                        <p>Піца м'ясна - 199 грн.</p>
+                        <img src="https://sorrento.te.ua/media/shop/item/photoes/1_%D0%9F%D1%96%D1%86%D0%B0%20%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D1%81%D1%8C%D0%BA%D0%B0/14_%D0%BA%D0%BE%D0%B7%D0%B0%D1%86%D1%8C%D0%BA%D0%B0%20%D0%BC_%D1%8F%D1%81%D0%BD%D0%B0/3.jpg">
+                        <p>Тако - 90 грн.</p>
+                        <img src="https://static.espreso.tv/uploads/photobank/314000_315000/314598_taco-plate-with-beef-grilled-veg_new_960x380_0.webp">
+
+                        <h3 id="colddrinks_sector">Холодні Напої🍹</h3>
+
+                        <p>Мохіто - 100 грн за склянку.</p>
+                        <img src="https://static.apostrophe.ua/uploads/image/b0cedac2a654b78b54aa442752450571.jpg">
+                        <p>Лимонад - 80 грн за склянку.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuYFkH2vDJyzfiHXySBOU-dN709GcQaDrUXiB-7i5QHq0831mEHPK_nqX2fihc1kiX96Y&usqp=C">
+                        <p>Фреш апельсиновий - 90 грн за склянку.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6oUKIAViGPv980Cbd7ypD_N-vEwcAqkW9kvBuLylT3cBA6nnd5jCkznWrpVdirh2q2ko&usqp=C">
+                        <p>Фреш яблучний - 90 грн за склянку.</p>
+                        <img src="https://shuba.life/static/content/thumbs/1905x884/3/4c/eeaopz---c1905x884x50px50p-up--140ef6bf297b47d2b6347044776e74c3.jpg">
+                        <p>Фреш гранатовий - 100 грн за склянку.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-98KsoifajW11IV657JOEUf3vDg8hxa_NcVg5gC3esLVB9mqydYsOt2xitD-7pAoa1_Q&usqp=CAU">
+                        <p>Мілкшейк шоколадний - 85 грн за склянку.</p> 
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRlb6CONkJxLNYVbb7nz8pO2f2e5ESjRg6J3zxQ7YSF0fC-sbiQFdmbQOdzSnOj6NKfp8&usqp=">
+
+                        <h3 id="hotdrinks_sector">Гарячі Напої☕</h3>
+
+                        <p>Кава еспресо - 50 грн за чашку.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQbIKy0rtjqpuSaoBsXM383xZ94W8JSv7GCQ_acA_HPVjLO-MyrepEdgw1I5Lwmyywi1U&usqp=CAU">
+                        <p>Капучино - 70 грн за чашку.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIZQV2-ELmgjR0jlZxVLpTYLuB3-yhvkiI6YdB1bbGyr4ZJ0KLHU6zspKo19J6DSo27k&usqp=CAU">
+                        <p>Лате - 80 грн за чашку.</p>
+                        <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Latte_macchiato.jpg">
+                        <p>Чай чорний - 40 грн за чашку</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFTK5VVzXG01siSScLhKMpXb48tiHSGQaVlyqDezo0XVDEMxyay9zYw3LzPnD-OJDrSro&usqp=CAU">
+                        <p>Чай зелений - 40 грн за чашку.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIuIS83rSIvYq7qNNVwV3bCnrmzyp_My9YX2dJOlL43OS6cd2lbzCIyVD6brbMc3ufHPk&usqp=CAU">
+                        <p>Гарячий шоколад - 90 грн за чашку.</p> 
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKBE7GxMhlCB1MSJhEmhNGoxaxKD_mx7J4eNnav_N8y-gK24eEEQ8wEvkDQaZQdHoMtIo&usqp=C"> 
+
+                        <h3 id="desserts_sector">Десерти🍨</h3>
+
+                        <p>Чізкейк - 100 грн за порцію.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7hTF3MizeTreeFKt66MmeTfuaWftUCtexQrcUua0yXiC0IPhNfZ7DXrdjO76_pfodKg0&usqp=CAU">
+                        <p>Тірамісу - 110 грн за порцію.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThgKDj_iuJrq2Hx4irSRHRHcS9BDNxCTM0dW4NQ1MUVjaQj3OseS_eQ48hy5e1jdkDGIE&usqp=CAU">
+                        <p>Наполеон - 90 грн за порцію.</p>
+                        <img src="https://content3.flowwow-images.com/data/blog/21/662600a273b94.jpg">
+                        <p>Шоколадний торт - 120 грн за порцію.</p>
+                        <img src="https://vatsak.com.ua/image/cache/catalog/products/Tortu/PORTC%D0%86JN%D0%86/Shokoladnii/Shokoladnij_porc_Gallery1-562x429.jpg">
+                        <p>Яблучний штрудель - 80 грн за порцію.</p>
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSoIhxvBKsQQO1OBVIp7zVMtDThh5hR4elj1zUIbYhN9F5x3CkZ-44nbcOmoeiFbZ7iDbg&usqp=CAU">
+                        <p>Мус із манго - 95 грн за порцію.</p>  
+                        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWX4598QSL38pp3ronfLtCCIKa-wq5KvdzvDYX93UQAhpHAjIe7_XP1leurG2nKivdFqY&usqp=CAU">
+
+
+                                                    
+                    </p>
+                    <p id="redboi_sector">
+                        <h5>
+                            ДОСТАВКА ЇЖІ🧍‍♂️
+                        </h5>
+                    <p>До всіх страв +60 грн,
+                    Окрім цього ціна за доставку
+                     буде зростати за кожні 2 КМ на 10 грн</p>
+                    <p>І знижатися за всі недоліки</p>
+                     <p>-Охола страва, що подається гарячою --- -20 грн</p>
+                     <p>-Пом'яті упаковки / пошкодженні --- 20 грн</p> 
+                     <p>-Час доставки не відповідає виділенному часу --- - 20грн</p>
+                     <p>-Їжа поганої якості--- -50грн</p>
+                     <p>-Неправильна доставка --- -60грн</p>
+
+                    </p>
+
+            </main>
+            <footer id="footer_sector">
+           Контакти  
+           Більше
+           Скарги(не заходити)  
+            </footer>
+    </body>
+</html>
